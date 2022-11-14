@@ -8,7 +8,7 @@ function Work(props) {
             <div className="pro-details">
                 <p>{props.text}</p>
                 <div className="pro-btns">
-                    <a href={props.view} target="_blank" rel="noopener" className="btn">view</a>
+                    <a href={props.view} target="_blank" rel="noreferrer" className="btn">view</a>
                 </div>
             </div>
 
