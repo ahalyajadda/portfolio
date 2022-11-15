@@ -1,7 +1,7 @@
 import React from 'react'
 import "./About.css";
-import img1 from "../assets/11.jpg";
-import img2 from "../assets/2.jpg";
+import img1 from "../assets/2.jpg";
+import img2 from "../assets/11.jpg";
 import { Link } from 'react-router-dom';
 function About() {
   return (
