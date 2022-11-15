@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import Introimg from "../assets/intro.jpg";
+import Introimg from "../assets/front.jpg";
 import "./Heroimg.css";
 function Heroimg() {
   return (
